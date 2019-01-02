@@ -1,0 +1,40 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="" count="1" />
+      <entry action="$Copy" count="11" />
+      <entry action="$Cut" count="2" />
+      <entry action="$Delete" count="71" />
+      <entry action="$Paste" count="20" />
+      <entry action="$SelectAll" count="91" />
+      <entry action="$Undo" count="2425" />
+      <entry action="Add  new java.lang.String[] " count="1" />
+      <entry action="Add  return  statement" count="1" />
+      <entry action="Add TypeCast" count="1" />
+      <entry action="Android Quick Fixes" count="6" />
+      <entry action="Android.BuildApk" count="2" />
+      <entry action="Android.CreateResourceDirectory" count="14" />
+      <entry action="Android.CreateSampleDataDirectory" count="1" />
+      <entry action="Android.ExportProjectZip" count="3" />
+      <entry action="Android.GenerateSignedApk" count="1" />
+      <entry action="Android.LinkExternalCppProject" count="2" />
+      <entry action="Android.RunAndroidAvdManager" count="9" />
+      <entry action="Android.RunAndroidSdkManager" count="6" />
+      <entry action="AndroidConnectDebuggerAction" count="1" />
+      <entry action="ChangesView.ApplyPatch" count="1" />
+      <entry action="ChangesView.CreatePatch" count="2" />
+      <entry action="ChangesView.Shelve" count="5" />
+      <entry action="CheckinFiles" count="1" />
+      <entry action="CheckinProject" count="70" />
+      <entry action="CleanGradleProject" count="3" />
+      <entry action="CloseProject" count="8" />
+      <entry action="CodeCompletion" count="6" />
+      <entry action="CollapseSelection" count="1" />
+      <entry action="CompareTwoFiles" count="2" />
+      <entry action="ConfigureCodeStyleOnSelectedFragment" count="1" />
+      <entry action="ConfigureIcs" count="2" />
+      <entry action="ContextHelp" count="1" />
+      <entry action="ConvertJavaToKotlin" count="1" />
+      <entry action="CopyReference" count="1" />
+      <entry action="Create  SetBlue(View)  in  MainActivity " count="1" />
+      <entry action="Create  SetG

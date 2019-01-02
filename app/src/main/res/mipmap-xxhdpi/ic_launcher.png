@@ -1,0 +1,117 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="" count="1" />
+      <entry action="$Copy" count="11" />
+      <entry action="$Cut" count="2" />
+      <entry action="$Delete" count="71" />
+      <entry action="$Paste" count="20" />
+      <entry action="$SelectAll" count="91" />
+      <entry action="$Undo" count="2425" />
+      <entry action="Add  new java.lang.String[] " count="1" />
+      <entry action="Add  return  statement" count="1" />
+      <entry action="Add TypeCast" count="1" />
+      <entry action="Android Quick Fixes" count="6" />
+      <entry action="Android.BuildApk" count="2" />
+      <entry action="Android.CreateResourceDirectory" count="14" />
+      <entry action="Android.CreateSampleDataDirectory" count="1" />
+      <entry action="Android.ExportProjectZip" count="3" />
+      <entry action="Android.GenerateSignedApk" count="1" />
+      <entry action="Android.LinkExternalCppProject" count="2" />
+      <entry action="Android.RunAndroidAvdManager" count="9" />
+      <entry action="Android.RunAndroidSdkManager" count="6" />
+      <entry action="AndroidConnectDebuggerAction" count="1" />
+      <entry action="ChangesView.ApplyPatch" count="1" />
+      <entry action="ChangesView.CreatePatch" count="2" />
+      <entry action="ChangesView.Shelve" count="5" />
+      <entry action="CheckinFiles" count="1" />
+      <entry action="CheckinProject" count="70" />
+      <entry action="CleanGradleProject" count="3" />
+      <entry action="CloseProject" count="8" />
+      <entry action="CodeCompletion" count="6" />
+      <entry action="CollapseSelection" count="1" />
+      <entry action="CompareTwoFiles" count="2" />
+      <entry action="ConfigureCodeStyleOnSelectedFragment" count="1" />
+      <entry action="ConfigureIcs" count="2" />
+      <entry action="ContextHelp" count="1" />
+      <entry action="ConvertJavaToKotlin" count="1" />
+      <entry action="CopyReference" count="1" />
+      <entry action="Create  SetBlue(View)  in  MainActivity " count="1" />
+      <entry action="Create  SetGreen(View)  in  MainActivity " count="1" />
+      <entry action="Create  SetRed(View)  in  MainActivity " count="1" />
+      <entry action="Create  Submit(View)  in  MainActivity " count="2" />
+      <entry action="Create  visitGoogle(View)  in  MainActivity " count="1" />
+      <entry action="Create  visitYahoo(View)  in  MainActivity " count="1" />
+      <entry action="Create Class from Usage" count="1" />
+      <entry action="Create constructor matching super" count="1" />
+      <entry action="Create field from Usage" count="2" />
+      <entry action="Create method from usage" count="1" />
+      <entry action="Debug" count="11" />
+      <entry action="Delete statement extracting side effects" count="1" />
+      <entry action="DeveloperServices.Firebase" count="8" />
+      <entry action="DialogOkAction Enter" count="139" />
+      <entry action="Edit intention settings" count="1" />
+      <entry action="EditLibraryAndDependencies" count="20" />
+      <entry action="EditorBackSpace" count="15661" />
+      <entry action="EditorChooseLookupItem" count="6674" />
+      <entry action="EditorChooseLookupItemReplace" count="6" />
+      <entry action="EditorCodeBlockEnd" count="1" />
+      <entry action="EditorCodeBlockStart" count="1" />
+      <entry action="EditorCopy" count="1156" />
+      <entry action="EditorCut" count="529" />
+      <entry action="EditorDelete" count="337" />
+      <entry action="EditorDeleteLine" count="96" />
+      <entry action="EditorDown" count="5124" />
+      <entry action="EditorDownWithSelection" count="185" />
+      <entry action="EditorDuplicate" count="33" />
+      <entry action="EditorEnter" count="4787" />
+      <entry action="EditorEscape" count="148" />
+      <entry action="EditorLeft" count="3294" />
+      <entry action="EditorLeftWithSelection" count="669" />
+      <entry action="EditorLineEndWithSelection" count="1" />
+      <entry action="EditorNextWord" count="205" />
+      <entry action="EditorNextWordWithSelection" count="279" />
+      <entry action="EditorPageDownWithSelection" count="4" />
+      <entry action="EditorPageUpWithSelection" count="23" />
+      <entry action="EditorPaste" count="2753" />
+      <entry action="EditorPreviousWord" count="380" />
+      <entry action="EditorPreviousWordWithSelection" count="925" />
+      <entry action="EditorRight" count="4322" />
+      <entry action="EditorRightWithSelection" count="488" />
+      <entry action="EditorScrollDown" count="2" />
+      <entry action="EditorSelectWord" count="5" />
+      <entry action="EditorSplitLine" count="4" />
+      <entry action="EditorStartNewLine" count="12" />
+      <entry action="EditorTab" count="576" />
+      <entry action="EditorToggleInsertState" count="2" />
+      <entry action="EditorUnindentSelection" count="3" />
+      <entry action="EditorUp" count="2330" />
+      <entry action="EditorUpWithSelection" count="357" />
+      <entry action="FileChooser.GotoProject" count="1" />
+      <entry action="Find" count="4" />
+      <entry action="FindInPath" count="1" />
+      <entry action="FindUsages" count="2" />
+      <entry action="Fix Variable Type" count="3" />
+      <entry action="Fix return type" count="2" />
+      <entry action="Flutter.Toolbar.ReloadAction" count="8" />
+      <entry action="Generate" count="9" />
+      <entry action="Git.Branches" count="1" />
+      <entry action="Git.Commit.And.Push.Executor" count="2" />
+      <entry action="Git.Init" count="2" />
+      <entry action="Git.Log" count="1" />
+      <entry action="Git.Pull" count="21" />
+      <entry action="Git.Rebase" count="1" />
+      <entry action="Git.Reset" count="1" />
+      <entry action="Git.Unstash" count="1" />
+      <entry action="Github.Rebase" count="2" />
+      <entry action="Github.Share" count="20" />
+      <entry action="GoogleCloudTesting.TestRecorder" count="1" />
+      <entry action="GoogleLogin.LoginService" count="9" />
+      <entry action="GotoAction" count="3" />
+      <entry action="GotoBookmark3" count="1" />
+      <entry action="GotoDeclaration" count="21" />
+      <entry action="GotoImplementation" count="1" />
+      <entry action="GotoNextElementUnderCaretUsage" count="1" />
+      <entry action="GotoPrevElementUnderCaretUsage" count="2" />
+      <entry action="GotoTypeDeclaration" count="1" />
+      <entry action="HideAllWindows

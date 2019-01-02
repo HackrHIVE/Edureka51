@@ -1,0 +1,35 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1440.900" x="722" y="383" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1440.900" x="388" y="242" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1440.900" x="174" y="83" />
+    <location key="#Unnamed.0.0.1440.900" x="478" y="51" />
+    <location key="SettingsEditor.0.0.1440.900" x="147" y="39" />
+    <location key="IdeErrosDialog.0.0.1440.900" x="351" y="243" />
+    <location key="ProcessPopupWindow.0.0.1440.900" x="972" y="603" />
+    <location key="AndroidCreateResourceDirectoryDialog.0.0.1440.900" x="300" y="183" />
+    <location key="AndroidThemeDialog.0.0.1440.900" x="23" y="157" />
+    <location key="deploy.picker.dialog.0.0.1440.900" x="41" y="171" />
+    <location key="FileChooserDialogImpl.0.0.1440.900" x="545" y="149" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1440.900" x="450" y="183" />
+    <location key="#app.0.0.1440.900" x="509" y="51" />
+    <location key="refactoring.ChangeSignatureDialog.0.0.1440.900" x="434" y="59" />
+    <location key="AndroidCreateXmlResourceDialog.0.0.1440.900" x="1059" y="285" />
+    <location key="#com.google.gct.testrecorder.ui.TestClassNameInputDialog.0.0.1440.900" x="648" y="359" />
+    <location key="AndroidCreateResourceFileDialog.0.0.1440.900" x="325" y="321" />
+    <location key="#Intentions.0.0.1440.900" x="315" y="91" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1440.900" x="475" y="142" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1440.900" x="453" y="179" />
+    <location key="#Project_Structure.0.0.1440.900" x="294" y="82" />
+    <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.0.0.1440.900" x="494" y="283" />
+    <location key="com.android.tools.idea.gradle.structure.editors.MavenDependencyLookupDialog.0.0.1440.900" x="382" y="278" />
+    <location key="git4idea.ui.GitUnstashDialog.0.0.1440.900" x="480" y="264" />
+    <location key="CommitChangelistDialog2.0.0.1440.900" x="351" y="45" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1440.900" x="486" y="324" />
+    <location key="Github.ShareDialog.0.0.1440.900" x="511" y="304" />
+    <location key="#Notifications.0.0.1440.900" x="472" y="162" />
+    <location key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1.0.0.1440.900" x="448" y="286" />
+    <location key="Github.UntrackedFilesDialog.0.0.1440.900" x="427" y="131" />
+    <location key="#com.intellij.ide.util.TreeClassChooserDialog.0.0.1440.900" x="452" y="224" />
+    <location key="GitCloneDialog.0.0.1440.900" x="559" y="354" />
+    <loc
